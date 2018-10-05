@@ -1,5 +1,5 @@
 # tutorials
 COMPILATION OF TUTORIALS
 
-**IONIC**
-/ionic.md
+**IONIC**<br>
+https://github.com/alonsojr1980/tutorials/blob/master/ionic.md
