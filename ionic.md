@@ -9,3 +9,5 @@ Needs cordova-plugin-android-permissions:
 $ionic cordova plugin add cordova-plugin-android-permissions 
 ```
 ***
+**Extensive Firebase Cloud Messaging Payload guide** <br>
+https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/PAYLOAD.md
