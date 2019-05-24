@@ -1,27 +1,27 @@
-# Update all packages
+### Update all packages
 https://www.npmjs.org/package/npm-check-updates <br>
 ```
 $ npm install -g npm-check-updates
 ```
-## Basic usage:
+#### Basic usage:
 ```
 $ ncu -u
 $ npm install
 ```
-## Update packages to major versions:
+#### Update packages to major versions:
 ```
 $ ncu -u -semverLevel major
 $ npm install
 ```
 > Beware of possible breaking changes!
 
-## Update packages to minor verions:
+#### Update packages to minor verions:
 ```
 $ ncu -u -semverLevel minor
 $ npm install
 ```
 
-## Help
+#### Help
 ```
 Usage: ncu [options] [filter]
 
