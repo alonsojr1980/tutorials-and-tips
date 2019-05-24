@@ -1,5 +1,23 @@
 # COMPILATION OF TUTORIALS AND TIPS
 
+## ANGULAR
+* <details>
+  <summary>Use custom elements</summary>
+  <br>  
+  
+  Do the following in every module that uses custom elements:
+  ```
+  import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+  
+  @NgModule({
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
+  ...
+  })
+  ```
+</details>
+
+* [Use Stencil webcomponent in Angular](https://stenciljs.com/docs/angular)
+
 ## IONIC
 * [Push notifications between Ionic 2/3 apps using Firebase Cloud Messaging](ionic/push_notifications_firebase_cloud_messaging.md)
 * [Extensive Firebase Cloud Messaging payload guide](https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/PAYLOAD.md)
