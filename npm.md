@@ -1,8 +1,2 @@
-**Update all packages** <br>
-https://www.npmjs.org/package/npm-check-updates <br>
-```
-$ npm install -g npm-check-updates
-$ ncu -u
-$ npm install 
-```
-> Beware of possible broken changes!
+## Update all packages
+[update_all_packages.md](/npm/update_all_packages.md)
