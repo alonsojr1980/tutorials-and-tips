@@ -24,3 +24,6 @@
 
 ## NPM
 * [Update all packages](/npm/update_all_packages.md)
+
+## STENCIL
+* [Using ngModel in stencil webcomponents](https://github.com/kensodemann/blogs/blob/master/stencil/Using%20ngModel%20with%20Stencil%20Components.md)
