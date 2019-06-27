@@ -27,3 +27,6 @@
 
 ## STENCIL
 * [Using ngModel in stencil webcomponents](https://github.com/kensodemann/blogs/blob/master/stencil/Using%20ngModel%20with%20Stencil%20Components.md)
+
+## WINDOWS OS
+* [Renaming domain name on Windows Server 2008](https://www.techieshelp.com/how-to-rename-a-server-2008-domain/)
