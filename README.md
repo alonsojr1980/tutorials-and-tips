@@ -44,5 +44,16 @@
     }
   ```
 
+* <details>
+  <summary>Easy align children center</summary>
+  <br>
+  
+  ```
+  .place-items-center { 
+      display: grid; 
+      place-items: center; 
+    }
+  ```
+
 ## WINDOWS OS
 * [Renaming domain name on Windows Server 2008](https://www.techieshelp.com/how-to-rename-a-server-2008-domain/)
