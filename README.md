@@ -41,7 +41,7 @@
       color-adjust: exact; 
       -webkit-print-color-adjust: exact; 
       print-color-adjust: exact; 
-    }
+  }
   ```
 
 * <details>
@@ -52,7 +52,7 @@
   .place-items-center { 
       display: grid; 
       place-items: center; 
-    }
+  }
   ```
 
 ## WINDOWS OS
