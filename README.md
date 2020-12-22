@@ -59,7 +59,6 @@
   <summary>Useful extensions</summary>
   <br>
   
-  ```
   <ul>
     <li>Bookmarks - Alessandro Fragnani</li>  
     <li>Bracket Pair Colorizer - CoenraadS</li>  
@@ -68,8 +67,7 @@
     <li>Live Sass Compiler - Ritwick Dey</li>  
     <li>Live Server - Ritwick Dey</li>  
   </ul>
-  ```
-
+  
 ## WINDOWS OS
 * [Renaming domain name on Windows Server 2008](https://www.techieshelp.com/how-to-rename-a-server-2008-domain/)
 
