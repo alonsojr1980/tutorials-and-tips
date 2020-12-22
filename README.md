@@ -60,12 +60,12 @@
   <br>
   
   <ul>
-    <li>Bookmarks - Alessandro Fragnani</li>  
-    <li>Bracket Pair Colorizer - CoenraadS</li>  
-    <li>Color Picker - anseki</li>  
-    <li>Debugger for Chrome - Microsoft</li>  
-    <li>Live Sass Compiler - Ritwick Dey</li>  
-    <li>Live Server - Ritwick Dey</li>  
+    <li>Bookmarks - <i>Alessandro Fragnani</i></li>  
+    <li>Bracket Pair Colorizer - <i>CoenraadS</i></li>  
+    <li>Color Picker - <i>anseki</i></li>  
+    <li>Debugger for Chrome - <i>Microsoft</i></li>  
+    <li>Live Sass Compiler - <i>Ritwick Dey</i></li>  
+    <li>Live Server - <i>Ritwick Dey</i></li>  
   </ul>
   
 ## WINDOWS OS
