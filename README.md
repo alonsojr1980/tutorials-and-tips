@@ -58,6 +58,7 @@
 * <details>
   <summary>Useful extensions</summary>
   <br>
+  
   ```
   <ul>
     <li>Bookmarks - Alessandro Fragnani</li>  
