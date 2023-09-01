@@ -70,6 +70,18 @@
     <li>Live Sass Compiler - <i>Ritwick Dey</i></li>  
     <li>Live Server - <i>Ritwick Dey</i></li>  
   </ul>
+
+## AUTOMATIC1111 (STABLE DIFFUSION UI)
+* <details>
+  <summary>Useful extensions</summary>
+  <br>
+  
+  <ul>
+    <li>[StyleSelectorXL](https://github.com/ahgsql/StyleSelectorXL)</li>  
+    <li>[SD_DYNAMIC_PROMPTS](https://github.com/adieyal/sd-dynamic-prompts)</li>
+    <li>[SD_WEBUI_CONTROLNET](https://github.com/Mikubill/sd-webui-controlnet)</li>
+  </ul>
+
   
 ## WINDOWS OS
 * [Renaming domain name on Windows Server 2008](https://www.techieshelp.com/how-to-rename-a-server-2008-domain/)
