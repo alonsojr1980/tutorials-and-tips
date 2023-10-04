@@ -80,6 +80,7 @@
     <li>StyleSelectorXL (https://github.com/ahgsql/StyleSelectorXL)</li>  
     <li>SD_DYNAMIC_PROMPTS (https://github.com/adieyal/sd-dynamic-prompts)</li>
     <li>SD_WEBUI_CONTROLNET (https://github.com/Mikubill/sd-webui-controlnet)</li>
+    <li>DWPose (https://github.com/IDEA-Research/DWPose)</li>
   </ul>
 
   
