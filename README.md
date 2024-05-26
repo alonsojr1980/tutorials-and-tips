@@ -1,6 +1,7 @@
 # COMPILATION OF TUTORIALS AND TIPS
 
 ## ANALYSIS AND SYSTEMS DEVELOPMENT
+* [GOF - Design Patterns](Analysis%20and%20Systems%20Development/gof.md)
 * [Design Patterns - real world Python examples](Analysis%20and%20Systems%20Development/design_patterns_realworld_python.md)
 * [Exam 01](Analysis%20and%20Systems%20Development/exam_01.md)
 
