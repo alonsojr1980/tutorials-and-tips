@@ -1,7 +1,7 @@
 # COMPILATION OF TUTORIALS AND TIPS
 
 ## ANALYSIS AND SYSTEMS DEVELOPMENT
-* [Design Patterns - real world examples](Analysis and Systems Development/design_patterns_realworld_python.md)
+* [Design Patterns - real world Python examples](Analysis%20and%20Systems%20Development/design_patterns_realworld_python.md)
 
 ## ANGULAR
 * <details>
