@@ -380,9 +380,7 @@
            print(f"Loading image from {self.filename}")
 
        def display(self):
-           print(f"Displaying {self.filename
-
-}")
+           print(f"Displaying {self.filename}")
 
    class ProxyImage(Image):
        def __init__(self, filename):
