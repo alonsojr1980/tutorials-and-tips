@@ -1,5 +1,8 @@
 # COMPILATION OF TUTORIALS AND TIPS
 
+## ANALYSIS AND SYSTEMS DEVELOPMENT
+* [Design Patterns - real world examples](Analysis and Systems Development/design_patterns_realworld_python.md)
+
 ## ANGULAR
 * <details>
   <summary>Use custom elements</summary>
