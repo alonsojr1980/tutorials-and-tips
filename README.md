@@ -91,6 +91,7 @@
   
 ## WINDOWS OS
 * [Renaming domain name on Windows Server 2008](https://www.techieshelp.com/how-to-rename-a-server-2008-domain/)
+* [Network Throttling](https://www.reddit.com/r/ParsecGaming/comments/zajgrn/for_those_with_issues_locally_even_wired/)
 
 * <details>
   <summary>Run TRIM on SSD drive (powershell command)</summary>
